@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:  Helvetica;
+  box-sizing: border-box;
+  text-shadow: #fff  ;
+  font-family: helvetica;
+
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url("assets/scale.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.container h1 {
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+}
+
